@@ -1,0 +1,2 @@
+# stepik___training_pytest_parametrize
+Training pytest parametrize
